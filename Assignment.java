@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Main
+public class Assignment
 {
     static void getSquared(ArrayList<Integer> original)
     {
